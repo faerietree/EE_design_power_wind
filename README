@@ -1,0 +1,20 @@
+WIND POWER PLANT
+===================
+
+
+NOMINAL
+-------------------
+
+Generator: Custom wound, low KV number.
+Generator Output: 5..20KW.
+
+Voltage: 480V_AC, 3phase.
+
+Turbine-Mount-Type: Vertical (not Savonius, which has 20% efficiency, yet lower efficiency than horizontally mounted wind turbinesmust be expected. It's impossible to extract all wind energy with a turbine. Theoretical maximum is said to be 58%.)
+
+Reason: Horizontal has higher efficiency but vertical can withstand much (MUCH!) higher wind speeds. (ever wondered why all these giant horizontally mounted windspeeds stand still? either generator limit reached or structural failure danger. Yes, those have already been witnessed to disintegrate. Not that horizontally mounted is necessarily less good than vertical mount, both have their advantages. Vertically mounted is easier to build and starts to rotate in lower wind speeds, generating power earlier (Note that most sites never (NEVER!) will reach the windspeed most sold windmills have been tested with, approximately 10m/s, thus a 2KW windmill will never bring 2KW in power as wind speed not only varies but also is much much lower in average. Really there are very few places in world that show such high windspeeds regularly/often. 10m/s).),
+
+
+Cut-in Wind velocity: ~1m/s
+Cut-off Wind velocity: 28.8m/s (=103.7 km/h), due to safety reasons.
+
