@@ -6,7 +6,7 @@ NOMINAL
 -------------------
 
 Generator: Custom wound, low KV number.
-Generator Output: 5..20KW.
+Generator Output: 5..20KW. (Yes, if you build it large enough to catch enough wind, then this is possible IF and ONLY IF you have high wind speed. Unfortunately not in 99% of Germany. see http://www.dwd.de/windkarten)
 
 Voltage: 700V_DC. 480V_AC, 3phase. Prefer DC over AC for wind generators as otherwise dealing with frequency, harmonics, sinusoidal vs. pure sine (remember the generator is custombuild) will cause troubles. Another reason is utilisation of low wind speeds. It's easier to put DC to use (where voltage will be lower than V_nominal) than AC (where voltage and frequency will vary when the generator is not yet within the regulated speed margins).
 
